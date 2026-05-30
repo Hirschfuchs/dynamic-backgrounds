@@ -5,6 +5,12 @@
   },
   "zeitraeume": [
     {
+      "title": "Kühlungsborn",
+      "path": "topics/2026-staedte/sommer-ostsee/kw26",
+      "from": "2026-06-22",
+      "to": "2026-07-05"
+    },
+    {
       "title": "Rasender Roland",
       "path": "topics/2026-staedte/sommer-ostsee/kw24",
       "from": "2026-06-08",
