@@ -1,12 +1,10 @@
 # Dynamische Hintergründe
 
-## Aktuelles Thema: Default-Hintergründe (Windows XP)
+## Aktuelles Thema: Kirschblüte Bonn
 
-> Dieses Hintergrundset ist der Default-Fallback, wenn kein anderes definiert wurde.
-Aus diesem Grund habe ich mich hier für einen absoluten Klassiker entschieden:
-Klassische Windows-XP Hintergründe!
-Die gehen eigentlich immer :)
+> Nachdem Berlin als Opener für die "Städte"-Thematik gesetzt wurde, sollte nun ein Frühlingsthema folgen.
+Welche Stadt bietet sich hier besser an als Bonn mit seiner wunderschönen Kirschblüte?
 
 ### Bilder in dieser Periode:
-![background-bright.jpg](topics/default/background-bright.jpg)
-![background-dark.jpg](topics/default/background-dark.jpg)
+![background-bright.jpg](topics/2026-staedte/mai-bonn/kw21/background-bright.jpg)
+![background-dark.jpg](topics/2026-staedte/mai-bonn/kw21/background-dark.jpg)
