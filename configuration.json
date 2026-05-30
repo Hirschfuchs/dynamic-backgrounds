@@ -3,5 +3,12 @@
     "title": "Default-Hintergründe (Windows XP)",
     "path": "topics/default"
   },
-  "zeitraeume": []
+  "zeitraeume": [
+    {
+      "title": "Kirschblüte Bonn",
+      "path": "topics/2026-staedte/mai-bonn/kw21",
+      "from": "2026-05-20",
+      "to": "2026-05-30"
+    }
+  ]
 }
