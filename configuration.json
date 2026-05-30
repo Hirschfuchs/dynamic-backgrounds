@@ -5,6 +5,12 @@
   },
   "zeitraeume": [
     {
+      "title": "Lübeck",
+      "path": "topics/2026-staedte/sommer-ostsee/kw32",
+      "from": "2026-08-03",
+      "to": "2026-08-16"
+    },
+    {
       "title": "Ostseebäder",
       "path": "topics/2026-staedte/sommer-ostsee/kw30",
       "from": "2026-07-20",
