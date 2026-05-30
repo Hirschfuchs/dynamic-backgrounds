@@ -9,6 +9,12 @@
       "path": "topics/2026-staedte/mai-bonn/kw21",
       "from": "2026-05-20",
       "to": "2026-05-30"
+    },
+    {
+      "title": "Berlin",
+      "path": "topics/2026-staedte/april-berlin",
+      "from": "2026-03-28",
+      "to": "2026-05-19"
     }
   ]
 }
