@@ -1,0 +1,65 @@
+name: Wöchentliche Hintergrundaktualisierung
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  update-assets:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Repo dynamic-backgrounds auschecken
+      uses: actions/checkout@v5
+      with:
+        token: ${{ secrets.BOT_TOKEN }}
+        path: dynamic-backgrounds
+
+    - name: Python vorbereiten
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Readme aktualisieren
+      run: |
+        cd dynamic-backgrounds
+        python update_readme.py
+
+    - name: Commit & Push der Readme
+      run: |
+        cd dynamic-backgrounds
+        git config --global user.name "Dynamic Background Bot"
+        git config --global user.email "openfoxes@bono-fox.de"
+        git add README.md
+        git diff-index --quiet HEAD || (git commit -m "📝 Readme für aktuelle Hintergründe aktualisiert" && git push)
+
+    - name: Repo my-configs auschecken
+      uses: actions/checkout@v5
+      with:
+        repository: '${{ github.repository_owner }}/my-configs'
+        token: ${{ secrets.BOT_TOKEN }}
+        path: my-configs
+
+    - name: Ordner assets/desktop in my-configs aktualisieren
+      run: |
+        # Falls der Ordner temp_assets_export existiert (Skript war erfolgreich)
+        if [ -d "dynamic-backgrounds/temp_assets_export" ]; then
+          # Alten Ordner löschen
+          rm -rf my-configs/assets/desktop
+          # Ordner neu erstellen
+          mkdir -p my-configs/assets/desktop
+          # Inhalt kopieren
+          cp -r dynamic-backgrounds/temp_assets_export/* my-configs/assets/desktop/
+        else
+          echo "Keine neuen Assets exportiert. Überspringe Kopieren."
+          exit 0
+        fi
+
+    - name: Commit & Push nach my-configs
+      run: |
+        cd my-configs
+        git config --global user.name "Dynamic Background Bot"
+        git config --global user.email "openfoxes@bono-fox.de"
+        git add assets/desktop
+        git diff-index --quiet HEAD || (git commit -m "🍱 Aktuelle Hintergründe eingespielt" && git push)
