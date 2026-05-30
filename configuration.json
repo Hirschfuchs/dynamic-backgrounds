@@ -5,6 +5,12 @@
   },
   "zeitraeume": [
     {
+      "title": "Ostseebäder",
+      "path": "topics/2026-staedte/sommer-ostsee/kw30",
+      "from": "2026-07-20",
+      "to": "2026-08-02"
+    },
+    {
       "title": "Stralsund",
       "path": "topics/2026-staedte/sommer-ostsee/kw28",
       "from": "2026-07-06",
