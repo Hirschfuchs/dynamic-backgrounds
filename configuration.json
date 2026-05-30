@@ -5,6 +5,12 @@
   },
   "zeitraeume": [
     {
+      "title": "Sylt",
+      "path": "topics/2026-staedte/sommer-ostsee/kw34",
+      "from": "2026-08-17",
+      "to": "2026-08-30"
+    },
+    {
       "title": "Lübeck",
       "path": "topics/2026-staedte/sommer-ostsee/kw32",
       "from": "2026-08-03",
