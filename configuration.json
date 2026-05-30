@@ -15,6 +15,18 @@
       "path": "topics/2026-staedte/april-berlin",
       "from": "2026-03-28",
       "to": "2026-05-19"
+    },
+    {
+      "title": "Rotkehlchen",
+      "path": "topics/pre/pre-vogel",
+      "from": "2026-02-27",
+      "to": "2026-03-27"
+    },
+    {
+      "title": "Erster deklarativer Hintergrund",
+      "path": "topics/pre/pre-landschaft",
+      "from": "2026-02-14",
+      "to": "2026-02-26"
     }
   ]
 }
