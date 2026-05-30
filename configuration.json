@@ -5,6 +5,24 @@
   },
   "zeitraeume": [
     {
+      "title": "Hamburg (3/3)",
+      "path": "topics/2026-staedte/sommer-ostsee/kw40",
+      "from": "2026-09-28",
+      "to": "2026-11-30"
+    },
+    {
+      "title": "Hamburg (2/3)",
+      "path": "topics/2026-staedte/sommer-ostsee/kw38",
+      "from": "2026-09-14",
+      "to": "2026-09-27"
+    },
+    {
+      "title": "Hamburg (1/3)",
+      "path": "topics/2026-staedte/sommer-ostsee/kw36",
+      "from": "2026-08-31",
+      "to": "2026-09-13"
+    },
+    {
       "title": "Sylt",
       "path": "topics/2026-staedte/sommer-ostsee/kw34",
       "from": "2026-08-17",
