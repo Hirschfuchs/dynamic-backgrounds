@@ -5,6 +5,12 @@
   },
   "zeitraeume": [
     {
+      "title": "Ostseebad Binz",
+      "path": "topics/2026-staedte/sommer-ostsee/kw23",
+      "from": "2026-05-31",
+      "to": "2026-06-06"
+    },
+    {
       "title": "Kirschblüte Bonn",
       "path": "topics/2026-staedte/mai-bonn/kw21",
       "from": "2026-05-20",
