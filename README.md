@@ -1,12 +1,10 @@
 # Dynamische Hintergründe
 
-## Aktuelles Thema: Ostseebad Binz
+## Aktuelles Thema: Rasender Roland
 
-> Pünktlich zum Einleiten des Sommers geht es in den Norden!
-Wir beginnen die Sommerreise an der Ostsee, im schönen Ostseebad Binz.
-Von hier an werden wir uns die nächsten Wochen in Richtung Nordsee bewegen.
+> Auf unserer Reise nach Sellin auf Rügen fahren wir mit dem Rasenden Roland.
 
 
 ### Bilder in dieser Periode:
-![background-bright.jpg](topics/2026-staedte/sommer-ostsee/kw23/background-bright.jpg)
-![background-dark.jpg](topics/2026-staedte/sommer-ostsee/kw23/background-dark.jpg)
+![background-bright.jpg](topics/2026-staedte/sommer-ostsee/kw24/background-bright.jpg)
+![background-dark.jpg](topics/2026-staedte/sommer-ostsee/kw24/background-dark.jpg)
