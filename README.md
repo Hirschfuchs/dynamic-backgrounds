@@ -1,10 +1,10 @@
 # Dynamische Hintergründe
 
-## Aktuelles Thema: Rasender Roland
+## Aktuelles Thema: Kühlungsborn
 
-> Auf unserer Reise nach Sellin auf Rügen fahren wir mit dem Rasenden Roland.
+> Nicht weit von Rostock befindet sich mit Kühlungsborn eines der beliebtesten Ostseebäder.
 
 
 ### Bilder in dieser Periode:
-![background-dark.jpg](topics/2026-staedte/sommer-ostsee/kw24/background-dark.jpg)
-![background-bright.jpg](topics/2026-staedte/sommer-ostsee/kw24/background-bright.jpg)
+![background-dark.jpg](topics/2026-staedte/sommer-ostsee/kw26/background-dark.jpg)
+![background-bright.jpg](topics/2026-staedte/sommer-ostsee/kw26/background-bright.jpg)
