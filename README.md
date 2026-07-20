@@ -1,10 +1,10 @@
 # Dynamische Hintergründe
 
-## Aktuelles Thema: Stralsund
+## Aktuelles Thema: Ostseebäder
 
-> Am Tag sieht man Stralsund mit der Ostsee im Hintergrund, in der Nacht sieht man die Rügenbrücke.
+> Stellvertretend für die vielen kleinen Ostseebäder ein paar Strandkörbe.
 
 
 ### Bilder in dieser Periode:
-![background-dark.jpg](topics/2026-staedte/sommer-ostsee/kw28/background-dark.jpg)
-![background-bright.jpg](topics/2026-staedte/sommer-ostsee/kw28/background-bright.jpg)
+![background-dark.jpg](topics/2026-staedte/sommer-ostsee/kw30/background-dark.jpg)
+![background-bright.jpg](topics/2026-staedte/sommer-ostsee/kw30/background-bright.jpg)
