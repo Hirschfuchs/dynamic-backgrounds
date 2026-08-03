@@ -1,10 +1,10 @@
 # Dynamische Hintergründe
 
-## Aktuelles Thema: Ostseebäder
+## Aktuelles Thema: Lübeck
 
-> Stellvertretend für die vielen kleinen Ostseebäder ein paar Strandkörbe.
+> Als letzte Ostseestadt dieses Jahres geht es ganz in den Norden nach Lübeck!
 
 
 ### Bilder in dieser Periode:
-![background-bright.jpg](topics/2026-staedte/sommer-ostsee/kw30/background-bright.jpg)
-![background-dark.jpg](topics/2026-staedte/sommer-ostsee/kw30/background-dark.jpg)
+![background-bright.jpg](topics/2026-staedte/sommer-ostsee/kw32/background-bright.jpg)
+![background-dark.jpg](topics/2026-staedte/sommer-ostsee/kw32/background-dark.jpg)
