@@ -1,6 +1,6 @@
 # Dynamische Hintergründe
 
-## Aktuelles Thema: Lübeck
+## Aktuelles Thema: ![orange](https://placehold.co/15x15/orange/orange.png) Lübeck
 
 > Als letzte Ostseestadt dieses Jahres geht es ganz in den Norden nach Lübeck!
 
