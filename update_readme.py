@@ -38,11 +38,22 @@ def update_readme(topic_path, topic_title):
 
     # Bilder im Ordner finden (jpg, jpeg, png)
     valid_extensions = (".jpg", ".jpeg", ".png")
-    images = [directory_file for directory_file in os.listdir(topic_path) if directory_file.lower().endswith(valid_extensions)]
+    images = sorted([directory_file for directory_file in os.listdir(topic_path) if directory_file.lower().endswith(valid_extensions)])
+
+    # Akzentfarbe lesen
+    accent_color_path = os.path.join(topic_path, "accent-color.txt")
+    accent_color = None
+
+    if os.path.exists(accent_color_path):
+        with open(accent_color_path, "r", encoding="utf-8") as accent_file:
+            accent_color = accent_file.read().strip()
 
     # Neues README generieren
-    readme_content = f"# Dynamische Hintergründe\n\n"
-    readme_content += f"## Aktuelles Thema: {topic_title}\n\n"
+    readme_content = "# Dynamische Hintergründe\n\n"
+    if accent_color:
+        readme_content += f"## Aktuelles Thema: ![{accent_color}](https://placehold.co/15x15/{accent_color}/{accent_color}.png) {topic_title}\n\n"
+    else:
+        readme_content += f"## Aktuelles Thema: {topic_title}\n\n"
     if description:
         readme_content += f"> {description}\n\n"
 
