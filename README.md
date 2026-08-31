@@ -1,10 +1,10 @@
 # Dynamische Hintergründe
 
-## Aktuelles Thema: ![slate](https://placehold.co/15x15/slate/slate.png) Sylt
+## Aktuelles Thema: ![teal](https://placehold.co/15x15/teal/teal.png) Hamburg (1/3)
 
-> Diesen Monat geht es nach Sylt!
+> In diesem Monat geht es Nach Hamburg!
 
 
 ### Bilder in dieser Periode:
-![background-bright.jpg](topics/2026-staedte/sommer-ostsee/kw34/background-bright.jpg)
-![background-dark.jpg](topics/2026-staedte/sommer-ostsee/kw34/background-dark.jpg)
+![background-bright.jpg](topics/2026-staedte/sommer-ostsee/kw36/background-bright.jpg)
+![background-dark.jpg](topics/2026-staedte/sommer-ostsee/kw36/background-dark.jpg)
